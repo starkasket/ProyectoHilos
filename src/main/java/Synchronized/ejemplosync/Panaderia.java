@@ -1,4 +1,4 @@
-package org.aguzman.hilos.ejemplosync;
+package Synchronized.ejemplosync;
 
 public class Panaderia {
     private String pan;

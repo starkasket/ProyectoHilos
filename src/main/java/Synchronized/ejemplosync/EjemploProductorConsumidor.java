@@ -1,7 +1,9 @@
-package org.aguzman.hilos.ejemplosync;
+package Synchronized.ejemplosync;
 
-import org.aguzman.hilos.ejemplosync.runnable.Consumidor;
-import org.aguzman.hilos.ejemplosync.runnable.Panadero;
+import Runnable.Consumidor;
+import Runnable.Panadero;
+
+
 
 public class EjemploProductorConsumidor {
     public static void main(String[] args) {

@@ -1,7 +1,6 @@
-package org.aguzman.hilos.ejemplosync.runnable;
+package Runnable;
 
-import org.aguzman.hilos.ejemplosync.Panaderia;
-
+import Synchronized.ejemplosync.Panaderia;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class Panadero implements Runnable{

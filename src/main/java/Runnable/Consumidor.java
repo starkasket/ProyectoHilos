@@ -1,6 +1,7 @@
-package org.aguzman.hilos.ejemplosync.runnable;
+package Runnable;
 
-import org.aguzman.hilos.ejemplosync.Panaderia;
+import Synchronized.ejemplosync.Panaderia;
+
 
 public class Consumidor implements Runnable{
     private Panaderia panaderia;
